@@ -1,0 +1,61 @@
+class lar
+__init__()
+__str__()
+__dict__() sözlük
+__add__() eklemek
+__mul__() çarpmak
+----------------------------------------------------------------
+map = yazdýgýmýz satýrý sýraya koyar
+** = bütün hepsini alýr
+----------------------------------------------------------------
+return birden fazla class da olmaz yani sadece python da çok olabilir
+----------------------------------------------------------------
+git = 
+----------------------------------------------------------------
+. = gizlilik kazandýrýr dosyaya
+----------------------------------------------------------------
+virtualenv(versiyon)-gitignore = iþleri kolaylaþtýrmak, kütüphane de kaydetmek, projelere özel python kütüphanesi kuruluyor.
+----------------------------------------------------------------
+pip freeze
+----------------------------------------------------------------
+rm-rf */
+----------------------------------------------------------------
+find metodu= bütün stringi okumaya baþlar. ilk gördügü yeri söyler. bulamazsa da -li döndürür.
+ornek = "merhaba hoþgeldiniz"
+"u" in ornek
+True
+ornek.find("m")
+ornek.find("x")
+----------------------------------------------------------------
+self = 
+append le kullanýcý ekleriz
+----------------------------------------------------------------
+json = yazdýðýmýz þekilde yazýp kütüphanesiz iþimi hemen halleden bir fonksiyon.
+----------------------------------------------------------------
+getattr =içerisinde var olan deðeri getiriyor.
+hasattr = 
+delattr =
+setattr = obje alýr, classýný alýr, degiþkeni alýr, degerini alýr.
+----------------------------------------------------------------
+Http**request, response
+get ile post arasý fark
+----------------------------------------------------------------
+web server, dom, http, raw request, raw response,domain,web API
+----------------------------------------------------------------
+GET, POST, PUT, DELETE, OPTIONS (metodlar), PATCH
+----------------------------------------------------------------
+pip indirme iþlemi
+----------------------------------------------------------------
+designer, front-end-dev., baskend-dev., database manager, project manager
+----------------------------------------------------------------
+-------HATA KODLARI---------------------------------------------
+def __new__(cls, value, phrase, description= ''):
+CONTÝNUE = 100, 'Continue', 'Request received', 'please countinue'
+----------------------------------------------------------------
+path = sürekli devam etmek için kullanýlýr. dinamik yapýyý saðlamak için.
+----------------------------------------------------------------
+githubla güncel bilgileri araþtýr hep takip et
+----------------------------------------------------------------
+regex = info[at]example[dat]com
+validation = dogrulamak
+
